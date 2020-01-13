@@ -113,11 +113,11 @@ Intuitively, we think the best times would be during peak hours, i.e. rush hour.
 
 Analyze Additional Data:
 
-	- NYC Census Data:
-		- Higher income residents
-		- Higher concentrations of women (ideally ages 25 – 40) 
+- NYC Census Data:
+	- Higher income residents
+	- Higher concentrations of women (ideally ages 25 – 40) 
 
-	- NYC business data for higher concentrations of tech companies
+- NYC business data for higher concentrations of tech companies
 
 Marketing beyond subway station outreach:
 
