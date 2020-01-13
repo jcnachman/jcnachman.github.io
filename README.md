@@ -2,8 +2,11 @@
 
 ## Contents
 
+- [Author](#author)
 - [License](#license)
 
+##Author
+Mark Otto
 
 ## License
 
