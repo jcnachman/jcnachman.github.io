@@ -27,13 +27,13 @@ In order to do this, we analyzed individual turnstile data from NYC subway stati
 
 We used data from the MTA turnstile data retrieved from the MTA developer site here:
 
-[NYC MTA Turnstile Data](/home/jcnachman/jcnachman.github.io/images/panda.png)
+[NYC MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
 
 We used Exploratory Data Analysis as our approach to analyze these data sets.
 
 We employed Python and Pandas as our data analysis tools and used Matplotlib to publish our figures. 
 
-![Panda Panda Panda Panda!](/assets/images/philly-magic-gardens.jpg "Panda Panda Panda Panda")
+![Panda Panda Panda Panda!](/home/jcnachman/jcnachman.github.io/images/panda.png)
 
 
 We downloaded and cleaned the MTA data sets from March, April, May of 2018 & 2019.
@@ -53,9 +53,8 @@ Ridership on weekends is between roughly 40 and 60 percent that of weekdays.
 
 Table Pic here:
 
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+![Table Pic 1](/home/jcnachman/jcnachman.github.io/images/More_Riders_on_Weekdays.png)
 
 
 
@@ -63,6 +62,8 @@ Table Pic here:
 “OUTS” represent average exits per day across all stations
 
 Average Daily MTA Entries pic here:
+
+![Table Pic 2](/home/jcnachman/jcnachman.github.io/images/Weekday_Riders.png)
 
 
 This lovely bar plot shows the average daily MTA entries. 
@@ -74,7 +75,7 @@ And then we see a significant drop on the weekends. This makes sense as there sh
 
 **Busiest Stations on Weekdays:**
 
-Table pic here
+![Table Pic 3](/home/jcnachman/jcnachman.github.io/images/weekday_riders2.png)
 
 All of our busiest stations are located in Manhattan, with the majority in Midwtown.
 
@@ -87,7 +88,7 @@ Pennsylvania station, which is across the street, is the busiest railroad statio
 
 **MTA Mean Across Weekends:**
 
-Bar chart here
+![Weekend Bar Plot Pic](/home/jcnachman/jcnachman.github.io/images/MTA_mean_xcross_weekends.png)
 
 In the case that WTWY is only able to send out their street teams on weekends, we’ve conveniently included this bar chart, which shows the average busiest MTA stations across weekends.
 
@@ -96,11 +97,13 @@ The ordering of the stations is similar to those we saw during weekends as well
 
 **Conclusions:**
 
-Table pic here
+![Recommendations Chart](/home/jcnachman/jcnachman.github.io/images/recs.png)
 
 We recommend placing street teams at these top 10 busiest stations Tuesday, Wednesday, Thursday, & Friday.
 
 Intuitively, we think the best times would be during peak hours, i.e. rush hour.
+
+![Rush Hour](/home/jcnachman/jcnachman.github.io/images/rush_hour.png)
 
 **Next Steps to Continue Helping WTWY:**
 
