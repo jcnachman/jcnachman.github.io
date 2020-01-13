@@ -1,7 +1,6 @@
 ```
 ---
-layout: post
-title: Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street Teams
+Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street Teams
 ---
 ```
 
