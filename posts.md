@@ -33,8 +33,7 @@ We used Exploratory Data Analysis as our approach to analyze these data sets.
 
 We employed Python and Pandas as our data analysis tools and used Matplotlib to publish our figures. 
 
-![Panda Panda Panda Panda!](/home/jcnachman/jcnachman.github.io/panda.png)
-
+![Panda Panda Panda Panda!](https://github.com/jcnachman/jcnachman.github.io/blob/master/images/panda.png)
 
 We downloaded and cleaned the MTA data sets from March, April, May of 2018 & 2019.
 
