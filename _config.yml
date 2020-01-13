@@ -34,6 +34,6 @@ gems:
 # Page List
 pages_list:       
   About: '/about'
-  Posts: '/_posts/20200113_NYC_MTA_Data.md'
+  Posts: '/posts'
   Feed: '/index.html'
 
