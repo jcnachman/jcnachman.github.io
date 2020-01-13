@@ -1,3 +1,7 @@
+<h1>Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street TeamsHeading level 1</h1>	
+
+
+
 ```
 ---
 Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street Teams
@@ -6,13 +10,13 @@ Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street Teams
 
 In week 1 at Metis, we were tasked with helping a fictional non-for-profit company, WomenTechWomenYes (WTWY), with analyzing NYC's MTA data to optimize the placement of their street teams.
 
-###MTAcular Group:###
+**MTAcular Group:**
 Eric Bassett
 Erik Anderson
 Eli T. Drumm
 Joanna Nachman
 
-###The Premise:###
+**The Premise:**
 
 WTWY hosts an annual gala at the beginning of each summer and they need attendees.
 
@@ -26,15 +30,18 @@ In turn, his will increase the participation of women in tech and simultaneously
 In order to do this, we analyzed individual turnstile data from NYC subway stations to discern the busiest stations across the city and track their daily patterns.
 
 
-###Our Methodology:###
+**Our Methodology:**
 
 We used data from the MTA turnstile data retrieved from the MTA developer site here:
 
-[NYC MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
+[NYC MTA Turnstile Data](/home/jcnachman/jcnachman.github.io/images/panda.png)
 
 We used Exploratory Data Analysis as our approach to analyze these data sets.
 
 We employed Python and Pandas as our data analysis tools and used Matplotlib to publish our figures. 
+
+![Panda Panda Panda Panda!](/assets/images/philly-magic-gardens.jpg "Panda Panda Panda Panda")
+
 
 We downloaded and cleaned the MTA data sets from March, April, May of 2018 & 2019.
 
@@ -45,14 +52,18 @@ The columns “CA", "UNIT", "SCP", "STATION" were keys to the individual turnsti
 We aggregateed the MTA data by station to calculate the busiest stations per day.
 
 
-###Results:###
+**Results:**
 
 Ridership across weekdays was similarly comparable, with Mondays being slightly less.
 
 Ridership on weekends is between roughly 40 and 60 percent that of weekdays.
 
 Table Pic here:
+
 ![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
 
 
 “INS” represents average entries per day across all stations.
@@ -68,7 +79,7 @@ As you can see, Mondays are slightly less busy than the rest of the week days, w
 And then we see a significant drop on the weekends. This makes sense as there should be less commuters on Saturday and Sunday.
 
 
-###Busiest Stations on Weekdays:###
+**Busiest Stations on Weekdays:**
 
 Table pic here
 
@@ -81,7 +92,7 @@ Time Square, Broadway, Madison Square Garden, Empire State Building
 Pennsylvania station, which is across the street, is the busiest railroad station in the country. 
 
 
-###MTA Mean Across Weekends:###
+**MTA Mean Across Weekends:**
 
 Bar chart here
 
@@ -90,7 +101,7 @@ In the case that WTWY is only able to send out their street teams on weekends, w
 The ordering of the stations is similar to those we saw during weekends as well
 
 
-###Conclusions:###
+**Conclusions:**
 
 Table pic here
 
@@ -98,7 +109,7 @@ We recommend placing street teams at these top 10 busiest stations Tuesday, Wedn
 
 Intuitively, we think the best times would be during peak hours, i.e. rush hour.
 
-###Next Steps to Continue Helping WTWY:###
+**Next Steps to Continue Helping WTWY:**
 
 Analyze Additional Data:
 
@@ -113,7 +124,7 @@ Marketing beyond subway station outreach:
 	- Social media advertising and email marketing
 
 
-###Reference:###
+**Reference:**
 
 Our github repository for the project can be found here:
 
