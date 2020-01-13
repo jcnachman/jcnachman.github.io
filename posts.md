@@ -1,13 +1,6 @@
 <h1>Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street TeamsHeading level 1</h1>	
 
 
-
-```
----
-Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street Teams
----
-```
-
 In week 1 at Metis, we were tasked with helping a fictional non-for-profit company, WomenTechWomenYes (WTWY), with analyzing NYC's MTA data to optimize the placement of their street teams.
 
 **MTAcular Group:**
@@ -121,7 +114,7 @@ Analyze Additional Data:
 
 Marketing beyond subway station outreach:
 
-	- Social media advertising and email marketing
+- Social media advertising and email marketing
 
 
 **Reference:**
