@@ -6,7 +6,7 @@ title: Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street Team
 To make a post, you must follow the naming convention shown for this file,
 with the data as the first part of the file name, seperated by dashes. Then
 the name of the post as you want it to be stored, with spaces as dashes.
-Finally, you must also keep the 
+ 
 
 ```
 ---
@@ -17,7 +17,7 @@ title: Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street Team
 
 In week 1 at Metis, we were tasked with helping a fictional non-for-profit company, WomenTechWomenYes (WTWY), with analyzing NYC's MTA data to optimize the placement of their street teams.
 
-MTAcular Group:
+###MTAcular Group:
 Eric Bassett
 Erik Anderson
 Eli T. Drumm
