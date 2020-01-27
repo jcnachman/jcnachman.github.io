@@ -35,6 +35,5 @@ gems:
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Posts: '/posts'
   Feed: '/index.html'
 
