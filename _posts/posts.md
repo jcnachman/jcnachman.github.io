@@ -1,3 +1,8 @@
+---
+layout: post
+title: MTAcular Post
+---
+
 <h1>Analyzing NYC's MTA Turnstie Data for Optimizing Placement of Street TeamsHeading level 1</h1>	
 
 
